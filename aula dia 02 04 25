@@ -1,0 +1,60 @@
+idade_usuario = int(input('digite a idade do usuario e tecle:\n'))
+#usa int() para defiinir que é numero inteiro
+#bota \n   para definir numero
+#input recebe string
+#string: cadeia de caracteres ( tipos de dados)  (tudo com "" (aspas duplas) é string)
+#numericos:int e float 
+#alfanumericos = "16" " !=16 (tipo logico so pode ter dois valores, sendo true ou false)
+# = significa algo em disposição a algo
+#exemplo
+"titio geo é o batman" ou 'titio geo é o batman'
+                                #se ele quiser votar
+    if idade_usuario >= 16 and idade_usuario < 18 or idade_usuario >= 60:
+        #se ele for de menor usa else
+    elif idade_usuario >=18:
+        print("o voto deste usuario é obrigatorio.")
+        print("fim do elif")
+    else:
+        print("o voto deste usuário foi facultativo")
+        print("fim do else")
+#else nunca vai ter condicional (ela se tornara falsa)
+#so pode ter else se tiver if antes
+#identar = é dar espaço com o (Tab)
+#so pode executar codigo se for true
+        print("este usuario não esta apto para votar")
+        print("fim do if")
+        print('\n',"-*-"*10) #para fzr a linha que ele fez
+#não pode realizar calculos com duas ""(strings)
+#se fizer "16" * 16 = 161616161616161616
+    
+
+
+#-------------------------------------------------------------------------------------------------------
+
+dia_da_semana = int(input('digite um numero de 1 a 7 e tecle enter:\n'))
+if dia_da_semana == 1:
+    print:("hj é domingo")
+    print:("fim do if")
+elif dia_da_semana == 2:
+    print("hoje é segunda")
+elif dia_da_semana == 3:
+    print("hj é terça")
+elif dia_da_semana == 4:
+    print("hj é quarta")
+elif dia_da_semana == 5:
+    print("hoje é quinta")
+elif dia_da_semana == 6:
+    print("hoje é sexta")
+elif dia_da_semana == 7:
+    print("hoje é sabado")
+else: 
+    print("o numero digitado não tem um dia na semana correspondente")
+
+#---------------------------------------------------------------------------------------------------------
+
+match
+    case 1:
+        print("hoje é domingo")    
+   
+
+
