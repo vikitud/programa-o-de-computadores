@@ -58,3 +58,32 @@ match
    
 
 
+#-------------------------------------------------------------------------------------------------------------
+#DIA 30/04/2025
+#rever while 
+
+import datetime
+pergunta = "S"
+while pergunta != "N":
+    ano_de_nascimento = int(input('ano de nasc do usuario'))
+    data = datetime.date.today()
+    idade = data.year - ano_de_nascimento
+    print(f'o usuario tem {idade}anos.')
+    pergunta = input('deseja fazer uma nova verificação? s ou n').upper()
+    print("fim do programa")
+    
+    #while da função de repetção
+    
+# estrutura FOR    
+    
+    int n - 0;
+    system.out.println("laço while no java")
+    while(n < 10) { 
+    system.out.println};
+    n++;
+    
+    int n - 0;
+    system.out.println("laço while no java")
+    for(int i = 0 ; i <= 10; i++){ 
+    system.out.println};
+    n++;
