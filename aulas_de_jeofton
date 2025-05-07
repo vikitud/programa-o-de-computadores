@@ -80,10 +80,26 @@ while pergunta != "N":
     system.out.println("laço while no java")
     while(n < 10) { 
     system.out.println};
-    n++;
+    n+
     
     int n - 0;
     system.out.println("laço while no java")
     for(int i = 0 ; i <= 10; i++){ 
     system.out.println};
-    n++;
+    n+;
+    #-------------------------------------------------------------------------------------------------------------------
+    #dia 07/05/2025
+    # pesquisar sobre array,stack e heap,variaveis mutaveis e immutaveis e tipagem.
+    # responder as perguntas abaixo:
+
+    #1- oq são arrays?quais os tipos de array em python?
+    #2-qual a relação existente entre array,stack e heap?
+    #3- oq são stack e heap?
+    #4- oq são variaveis mutaveis e imutaveis?,estes conceitos se confundem com o conceito de constância?
+    #5- como a relação entre arrays,stack e heap difere entre linguagens de tipagem estática e tipagem dinamica?
+
+    #(fazer demostração grafica em todos)
+
+    #bingo para responder a pergunta equivalente ( ele fez um sistema de gambling)
+
+    #---------------------------------------------------------------------------------------------------------------------
