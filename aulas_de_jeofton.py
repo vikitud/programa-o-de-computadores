@@ -104,4 +104,87 @@ while pergunta != "N":
 
     #---------------------------------------------------------------------------------------------------------------------
     #dia 14/05/2025
-    # 
+    #(primeiro_slider)objetivos:compreender variaveis de multiplos valores,uso de listas como arrays, manipulr listas.
+    
+    nome = "joao,pedro,maria"
+    print(nome[4:9])
+    nome 2 =    v               
+    
+    #-------------------------------------------------------------------------------------------------------------------------
+    nome = "joao,pedro,maria"
+    nome_1 = "joao" idade_1 = 18
+    nome_2 = "pedro" idade_2 = 18
+    nome_3 = "maria" idade_3 = 17
+    nome_1000 = "antinia" idade_1000 = 20
+    #----------------------------------------------------------------------------------------------------------------------------
+    nome = [0] == "joao"
+    
+    #-----------------------------------------------------------------------------
+    array de nomes, idades...
+    idade = [18,19,20]
+    alturas = 185, 160, 190, 172
+    
+    endereços = (dial, 3800000)
+    qua = (não)17,"30000000 )
+    - matriz e coordenada para saber local de água ( exemplo: jogos)
+#------------------------------------------------------------------------------------
+
+stack_____________Heap
+    b=nomes         joão ["ambris"]
+#-----------------------------------------------------------------------------------
+    for n in (1,10)
+    print(n) 1
+    #lembrar que posição é sempre nessa ordem ( 0 1 2 3), lembra do 0
+    #tem muitos metodos de fazer, mas vai ver  
+    #------------------------------------------------------------------------------------
+Python_List
+    # as listas são delimitadas por cochetes [] (viu que é cochete é arrey), 
+    # os elementos são separados por virgula
+    #o elemento podem ser de tipos diferentes 
+
+frutas = ['pera','uva','maçã','salada mista']
+escolha = frutas[3] #<- para acessarmos um elemento da lista,precisamos o nome da lista e o indicie ou posição do elemento.
+print(escolha)
+
+#dica:para descobrir o comprimento de uma lista podemos utilizar a função len(); 
+#se quisermos pegar o ultimo elemento de uma lista podemos passar o nome da lista e o valor -1 dento dos--
+alfabeto_portugues = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s',]
+print(f"A ultima letra do aflabeto é: {alfabeto_portugues[-1]}")
+#-------------------------------------------------------------------------------------------
+nomes = ["lucas","fabio","thiago","samira","leandra","joao","ismar"]
+print(len(nomes))
+print(nome(4))
+
+for nome in nomes:
+print(f"{nomes.index(nome)} - {nome}")
+
+print('percorrendo com while')
+c=0 c:1
+while c < len(nomes):
+print(f"{nomes.index(nome)} - {nomes[c]}")
+c+=1
+#-------------------------------------------------------------------------------------------
+nomes = ["lucas","fabio","thiago","samira","leandra","joao","ismar"]
+
+nomes.insert(,'daniel')
+nomes.pop(0)
+print(nomes)
+#-------------------------------------------------------------------------------------------
+#cadastro de alunos
+
+escolha = ''
+alunos = []
+while escolha !="n":
+    aluno = input('digite o nome do aluno e tecle enter:')
+    alunos.append(aluno)
+    escolha = input("deseja cadastrar novo aluno? S ou N").lower()
+#agora quero exibir os alunos
+for al in alunos:
+print(f"{al} é um(a) aluno(a) dedicado(a).")
+#---------------------------------------------------------------------------------------------
+nome = "milton"
+print(nome[3])
+# dai ele vai contar até 0 1 2 3, e no 3 ele mostra o T do nome
+#ele passo umas atividades praticas  sobre a aula no slide
+#----------------------------------------------------------------------------------------------
+# !spoiler! proxima aula vai ser sobre ( Matriz )
