@@ -103,3 +103,5 @@ while pergunta != "N":
     #bingo para responder a pergunta equivalente ( ele fez um sistema de gambling)
 
     #---------------------------------------------------------------------------------------------------------------------
+    #dia 14/05/2025
+    # 
