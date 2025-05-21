@@ -188,3 +188,45 @@ print(nome[3])
 #ele passo umas atividades praticas  sobre a aula no slide
 #----------------------------------------------------------------------------------------------
 # !spoiler! proxima aula vai ser sobre ( Matriz )
+#---------------------------------------------------------------------------------------------
+ #dia 21/05/2025
+    #revisando
+vetores = unidimencionais 
+        A1 = ["leandra", 1.65, 18"cc"]
+        A2 = ["eduardo",1.76,18,"cc"]
+        A3 = ["lucas",1.73,18,"ADS"]
+    print(alunos[A1][1].alunos[A1][A3])
+vetores1 = multidimencional alunos [["leandra",1.68,18,"cc"],["eduardo",1.76,18,"cc"]]
+    
+#explicando matrizes
+#como eles são arrays, aplica o conjunto dos valoresde L' e C"
+#"melhor exemplo é jogo da velha" (falou sobre jogo da velha)
+
+#agora começa a dar aula
+
+alunos.append("ismar") 
+#ele vai add o aluno, mas n bota resto dos dados
+alunos.append(["ismar",1.76,18,"cc"])
+#metodo pop(ele pega e deixa no cantinho la,quando ele termian de executar ele cobre) e remove ( quando ele termina ele tira)
+alunos.pop(A1) 
+#o pop faz o inverso do append
+alunos.remove()
+#-----------------------------------------------------------------------------------------------
+novo = ''
+while novo != 'n':
+    nome_veiculo = input('digita-carrp')
+    fabricante_carro = ('didgita fabrica')
+    ano_veiculo = input('digita o ano')
+    veiculos.append([nome_veiculo,fabricante_nome, ano_veiculo])   
+    novo = input('deseja cadastro? s ou n')
+    print(veiculos)
+for i, veiculo in enumerate(veiculos, start=1):
+    print(f"{i} - 0 faricante do {veiculo[0]} {veiculo[1]} {veiculo_[2]}")
+#-----------------------------------------------------------------------------------------------
+                    #dica sobre certificados: freecodecamp  (dica:junta certificado) + ( da hora complementar)
+#-----------------------------------------------------------------------------------------------
+*******************************************************************************************************
+#tarefa_de_casa_nos_slides
+*******************************************************************************************************
+#-----------------------------------------------------------------------------------------------
+#proxima aula ele da continuidade!
